@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <!-- icons/ytkids.png -->
+    </qresource>
+    <qresource prefix="/artwork">
+        <!-- default_artwork/ seed images go here -->
+    </qresource>
+</RCC>
