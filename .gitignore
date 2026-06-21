@@ -1,0 +1,30 @@
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeUserPresets.json
+
+# Qt
+*.pro.user
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.autosave
+
+# Binaries
+*.o
+*.a
+*.so
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.swp
+*.swo
+.nvim/
+
+# Config/secrets
+config.json
+*.pem
