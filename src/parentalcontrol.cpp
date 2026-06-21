@@ -1,3 +1,4 @@
+#include <QTimer>
 #include "parentalcontrol.h"
 #include "config.h"
 
